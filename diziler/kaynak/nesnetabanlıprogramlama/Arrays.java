@@ -10,6 +10,6 @@ System.out.printf("%s%8s%n","Index","Value");
 	
 	System.out.printf("%5d%8d%n",counter,array[counter]);
 	}
-
+   
 }
 }
